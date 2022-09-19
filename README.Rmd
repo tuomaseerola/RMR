@@ -1,0 +1,22 @@
+---
+title: "The Anatomy of Consonance/Dissonance"
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    theme: united
+    highlight: tango
+---
+
+# RMR
+Research Methods and Resources, 2022-2023
+
+* [Introduction](session1.html)
+* Academic Writing
+
