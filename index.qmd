@@ -4,11 +4,19 @@ format: html
 editor: source
 ---
 
+### Durham University, 2022-2023, Department of Music
 
-### Research Methods and Resources, 2022-2023
-### Durham University, Department of Music
+[Tuomas Eerola at Durham University Staff pages](https://www.durham.ac.uk/staff/tuomas-eerola/) or at [Github](https://tuomaseerola.github.io).
 
-Tuomas Eerola
-
-* [Introduction](session1.html)
-* Academic Writing
+| Topic              | Week |
+|--------------------|------|
+| [Introduction](session1.html)       | 1    |
+| Academic writing 1 | 2    |
+| Critical reading   | 3    |
+| Academic writing 2 | 4    |
+| Library resources  | 5    |
+| Communicating research        | 6    |
+| Code of practice for research | 7    |
+| Empirical research methods    | 8    |
+| Practice-based Research       | 9    |
+| Research careers & culture    | 10   |
