@@ -13,7 +13,7 @@ format:
     slide-number: true
     show-slide-number: all
     logo: figures/DurhamUniversityMasterLogo_RGB.png
-    footer: "RMR 2022-2023"
+    footer: "[RMR 2022-2023](https://tuomaseerola.github.io/RMR/)"
     self-contained: false
     bibliography: RMR.bib
     csl: apa6.cls
@@ -122,6 +122,7 @@ No session on 7 February
     -   create a short text or extract
     -   be ready to talk about topic
     -   prepare to summarise a topic (mini-presentation)
+- Slides are available at: [https://tuomaseerola.github.io/RMR/](https://tuomaseerola.github.io/RMR/)
 
 ::: callout-important
 Participation matters. Let's build this as a scholarly community that actively pursues topics and engages with each other.
