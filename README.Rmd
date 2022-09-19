@@ -1,5 +1,5 @@
 ---
-title: "The Anatomy of Consonance/Dissonance"
+title: "Research Methods and Resources"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -14,8 +14,10 @@ output:
     highlight: tango
 ---
 
-# RMR
-Research Methods and Resources, 2022-2023
+### Research Methods and Resources, 2022-2023
+### Durham University, Department of Music
+
+Tuomas Eerola
 
 * [Introduction](session1.html)
 * Academic Writing
