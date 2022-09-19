@@ -1,0 +1,276 @@
+---
+title: "Research Methods and Resources (MUSI40830)"
+subtitle: "Introduction"
+author: "Tuomas Eerola"
+date: "4/10/2022"
+format: 
+  revealjs:
+    theme: default
+    toc: true
+    toc-depth: 1 # default is 3
+    toc-title: Contents
+    smaller: false
+    slide-number: true
+    show-slide-number: all
+    logo: figures/DurhamUniversityMasterLogo_RGB.png
+    footer: "RMR 2022-2023"
+    self-contained: false
+    bibliography: RMR.bib
+    csl: apa6.cls
+    anchor-sections: true
+    smooth-scroll: true
+---
+
+# Introductions
+
+## Who are we?
+
+-   Who are you, what is your "pathway of study" in the MA programme, what topics interest you
+
+# Schedule
+
+## Schedule -- Michaelmas Term {.smaller}
+
+::: {.column width="45%"}
+| Topic              | Week |
+|--------------------|------|
+| Introduction       | 1    |
+| Academic writing 1 | 2    |
+| Critical reading   | 3    |
+| Academic writing 2 | 4    |
+| Library resources  | 5    |
+:::
+
+::: {.column width="45%"}
+| Topic                         | Week |
+|-------------------------------|------|
+| Communicating research        | 6    |
+| Code of practice for research | 7    |
+| Empirical research methods    | 8    |
+| Practice-based Research       | 9    |
+| Research careers & culture    | 10   |
+:::
+
+Tuesdays at 12-1 pm at PG28
+
+## Schedule -- Epiphany Term 2023 {.smaller}
+
+| Topic                       | Week  |
+|-----------------------------|-------|
+| Inter-disciplinary research | 11    |
+| Seminars                    | 12-17 |
+| Critical reading            | 18-20 |
+| Summative Presentations     | 4     |
+
+Tuesdays at 12-1 pm at PG28
+
+::: callout-important
+No session on 7 February
+:::
+
+## Module Aims {.smaller}
+
+-   to impart foundational understanding of the nature of research in pertinent fields of music studies
+-   to provide training in research methods and resources appropriate to the scholarly study of music
+-   to facilitate the transition from undergraduate studies to postgraduate research
+-   to stimulate critical thinking about issues pertaining to research on music
+-   to foster awareness of the wider scholarly community and of the professional standards and conventions concomitant with membership of that community
+-   to acquaint students with academic standards of intellectual rigour and ethical integrity
+
+# Assessment
+
+## Assessment -- Summative
+
+#### 2000 word research proposal
+
+-   Submission date: 24 January 2023
+
+-   Feedback: Week of 14th Feb 2023 with tutorials
+
+#### Conference-style 10 minute oral presentation
+
+-   Submission date: Beginning 1 March 2023
+
+-   Feedback: 25th April 2023
+
+## Assessment -- Formative
+
+#### Research proposal extended abstract (750 words)
+
+-   Submission date: 4 November 2022
+
+-   Feedback: Week of 8th Nov 2022 with tutorials
+
+#### Presentations
+
+-   Set in the sessions
+
+## Assessment -- Technicalities
+
+-   Written submissions submitted via **Submission Point** within Module under the Summative Area
+-   Information about **plagiarism** is available online in the MA Student Handbook 2022-2023
+-   **Late-submission** or **non-submission** will incur penalties as stated in the Department Handbook
+-   **Assessment criteria** available in the Module Handbook
+
+# Good Practice
+
+## Preparation
+
+-   Sessions usually have tasks:
+
+    -   either a short reading (check Module Handbook)
+    -   create a short text or extract
+    -   be ready to talk about topic
+    -   prepare to summarise a topic (mini-presentation)
+
+::: callout-important
+Participation matters. Let's build this as a scholarly community that actively pursues topics and engages with each other.
+:::
+
+## Other Related Activities
+
+-   Postgraduate Seminar: Mondays 12.00-1.00 pm
+-   Research Forum: Tuesday 3.00-4.30 pm
+
+::: callout-tip
+Be curious, attend reading groups, research presentations, talks from visitors, lunchtime concerts, talk to staff about their interests, seek "research experience" opportunities, etc.
+:::
+
+<!-- ::: aside -->
+
+<!-- Some additional commentary of more peripheral interest. -->
+
+<!-- ::: -->
+
+# What is Music Research?
+
+## Definition of Research
+
+We can start from [@ukri_ahrc, p.~10]
+
+-   Definition of key terms such as **research questions**, **research context**, and **research methods**
+-   Useful starting point as all funding -- including PhD funding -- follows these definitions
+-   Addresses creative practice as well (composition and performance)
+-   Module grading criteria has also been modelled after the UKRI definition of the research elements
+
+## Key elements of research {.smaller}
+
+#### Research question(s)
+
+Are the research questions clearly defined? How important is it that these questions should be addressed?
+
+#### Research context
+
+What other research is being, or has been, conducted in this area? What particular contribution will this project make to the advancement of knowledge and understanding in the field? What is the gap in the past research?
+
+#### Research methods
+
+How are you seeking to answer the questions? Is there an adequate rationale for their chosen research methods? Do the research methods provide an appropriate means by which to answer the research questions?
+
+#### (Schedule and resources)
+Optional, but a useful process to think through (when and what is needed in each step?)
+
+## Key Elements -- Research Proposal {.smaller}
+
+- Writing a **research proposal** is helpful in bringing your project into focus, clarifying its aims, and getting a clear sense of the practicalities involved in undertaking it
+- important practical skill – especially if you are applying to undertake more advanced postgraduate study or research grants
+- Funding agencies expect proposals to follow a fairly standard format and to supply very specific information
+
+::: callout-important
+**Formative 1** (Research proposal) by 4 November (750 words), **Summative 1** (Research proposal by 24 January)
+:::
+
+
+## Disciplines and Music Research? (1) {.smaller}
+
+- Historical musicology
+- Systematic musicology (1880-)
+
+  - physiology and acoustics
+
+- Ethnomusicology (1910-1938, 1950-)
+
+  - comparative musicology, ethnomusicology in 1950s
+
+- Computational approaches (1960-)
+
+  - computers, logic, set-theory
+
+- New musicology (1970-)
+
+- Creative Practice / Performance-based practice
+
+## Disciplines and Music Research? (2)
+
+![Disciplines according to @harperscott2009](figures/disciplines.png)
+
+## From Ontology to Methods
+
+![Ontology adapted loosely from @rugg2007gentle](figures/ontology_methods.png)
+
+## Paradigms {.smaller}
+
+| Postpositivism           | Constructivism      |
+|--------------------------|---------------------|
+| Determination            | Understanding       |
+| Reductionism             | Multiple meanings   |
+| Empirical observation    | Social construction |
+| Theory verification      | Theory generation   |
+
+| Transformative           | Pragmatism          |
+|--------------------------|---------------------|
+| Political                | Consequences of actions     |
+| Power oriented           | Problem-centred   |
+| Collaborative            | Pluralistic         |
+| Change-oriented          | Practice oriented |
+
+Adapted from @creswell2017research
+
+## Research in music
+
+- All paradigms utilised
+
+- All strategies of inquiry (quantitative, qualitative, mixed)
+
+- Nuanced emphases of these within different disciplines of music research
+
+- Interdisciplinarity and transdisciplinarity
+
+## Research in music (broad division)  {.smaller}
+
+| Focus     |  Scientific Musicology| Humanistic Musicology |
+|-----------|----------------------|-------------------|
+| Goal      | Derive laws, explain objective phenomena |Detailed understanding of sub jective phenomena |
+| Topics    | Perception, comprehension, origins, how elements of music operate |Styles, composers, works, performers, traditions, values |
+| Methods   | From social sciences (psychology, neuroscience) to sciences |From history, anthropology, and culture studies |
+| Approaches| Data-oriented, theory-testing |Case-oriented, descriptive, theory-generating |
+| Disciplines| Music psychology, systematic musicology, empirical musicology |Music history, music theory and analysis, cultural musicology |
+
+[@eerola2013]
+
+## Where Are Your Interests Situated?
+
+- Paradigm broadly?
+- Discipline(s)?
+- Approaches/Method(s)
+
+<!-- ## Readings  -->
+
+<!-- - general research methods (see Module Handbook) -->
+
+<!-- - Music-specific -->
+
+<!--   * Creative practice (Barrett, 2014) -->
+
+<!--   * Performance and history (Butt, 2002) -->
+
+<!--   * Empirical music research (Eerola, submitted) -->
+
+<!--   * Historical musicology (Crist, Marvin & Marshall, 2004) -->
+
+<!--   * Ethnomusicology (Herbert, 2009; Titon, 2008) -->
+
+## References
+
+::: {#refs}
+:::
