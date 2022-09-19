@@ -4,19 +4,20 @@ format: html
 editor: source
 ---
 
-### Durham University, 2022-2023, Department of Music
+### Department of Music, 2022-23, Durham University 
 
-[Tuomas Eerola at Durham University Staff pages](https://www.durham.ac.uk/staff/tuomas-eerola/) or at [Github](https://tuomaseerola.github.io).
+Materials for **MA Module MUSI40830** by [Tuomas Eerola](https://tuomaseerola.github.io) at [Department of Music](https://www.durham.ac.uk/staff/tuomas-eerola/) at Durham University.
 
 | Topic              | Week |
 |--------------------|------|
 | [Introduction](session1.html)       | 1    |
 | Academic writing 1 | 2    |
-| Critical reading   | 3    |
+| [Critical reading](session3.html)   | 3    |
 | Academic writing 2 | 4    |
 | Library resources  | 5    |
-| Communicating research        | 6    |
-| Code of practice for research | 7    |
-| Empirical research methods    | 8    |
+| [Communicating research](session6.html)        | 6    |
+| [Code of practice for research](session7.html) | 7    |
+| [Empirical research methods](session8.html)    | 8    |
 | Practice-based Research       | 9    |
-| Research careers & culture    | 10   |
+| [Research careers & culture](session10.html)    | 10   |
+

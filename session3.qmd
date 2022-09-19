@@ -1,0 +1,31 @@
+---
+title: "Research Methods and Resources (MUSI40830)"
+subtitle: "Critical Reading"
+author: "Tuomas Eerola"
+date: "17/10/2022"
+format: 
+  revealjs:
+    theme: default
+    toc: true
+    toc-depth: 1 # default is 3
+    toc-title: Contents
+    smaller: false
+    slide-number: true
+    show-slide-number: all
+    logo: figures/DurhamUniversityMasterLogo_RGB.png
+    footer: "[RMR 2022-2023](https://tuomaseerola.github.io/RMR/)"
+    self-contained: false
+    bibliography: RMR.bib
+    csl: apa6.cls
+    anchor-sections: true
+    smooth-scroll: true
+---
+
+# Introduction
+
+## Critical Reading
+
+## References
+
+::: {#refs}
+:::
