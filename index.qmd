@@ -1,0 +1,14 @@
+---
+title: "Research Methods and Resources"
+format: html
+editor: source
+---
+
+
+### Research Methods and Resources, 2022-2023
+### Durham University, Department of Music
+
+Tuomas Eerola
+
+* [Introduction](session1.html)
+* Academic Writing
